@@ -1,3 +1,5 @@
-# plexserver-update
+Update script for Plex Media Server Ubuntu/Debian
+=================================================
 
-Need jq[https://stedolan.github.io/jq/]
+Dependency : 
+* [jq](https://stedolan.github.io/jq/)
